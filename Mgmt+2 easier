@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mgmt+2</title>
+</head>
+<body>
+
+    <h1>Welcome to Mgmt+2</h1>
+    <p>Your Management +2 educational website.</p>
+
+    <h2>Subjects</h2>
+    <ul>
+        <li>Accounting</li>
+        <li>Economics</li>
+        <li>Business Studies</li>
+        <li>Computer Science</li>
+        <li>English</li>
+        <li>Nepali</li>
+    </ul>
+
+</body>
+</html>
